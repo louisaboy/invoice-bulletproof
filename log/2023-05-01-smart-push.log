@@ -1,0 +1,150 @@
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-01 04:13:16"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-01 04:13:16"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-01 04:13:16"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-01 04:13:16"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-01 04:13:29"}
+{"level":"debug","message":"Calling Redirect to the url endpoint with params: { accessKey: 'favicon.ico' }","timestamp":"2023-05-01 04:13:29"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-01 04:13:29"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-01 04:14:18"}
+{"level":"debug","message":"Calling Redirect to the url endpoint with params: { accessKey: 'favicon.ico' }","timestamp":"2023-05-01 04:14:18"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-01 04:14:18"}
+{"level":"debug","message":"Calling Redirect to the url endpoint with params: { accessKey: 'me' }","timestamp":"2023-05-01 04:14:20"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-01 04:14:20"}
+{"level":"debug","message":"Calling Redirect to the url endpoint with params: { accessKey: 'favicon.ico' }","timestamp":"2023-05-01 04:14:20"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-01 04:14:20"}
+{"level":"debug","message":"Calling Redirect to the url endpoint with params: { accessKey: 'register' }","timestamp":"2023-05-01 04:18:40"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-01 04:18:40"}
+{"level":"debug","message":"Calling Redirect to the url endpoint with params: { accessKey: 'favicon.ico' }","timestamp":"2023-05-01 04:18:40"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-01 04:18:40"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-01 04:24:31"}
+{"level":"debug","message":"Calling Redirect to the url endpoint with params: { accessKey: 'favicon.ico' }","timestamp":"2023-05-01 04:24:31"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-01 04:24:31"}
+{"level":"debug","message":"Calling Redirect to the url endpoint with params: { accessKey: 'abcd1234' }","timestamp":"2023-05-01 04:25:15"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-01 04:25:15"}
+{"level":"debug","message":"Calling Redirect to the url endpoint with params: { accessKey: 'favicon.ico' }","timestamp":"2023-05-01 04:25:15"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-01 04:25:15"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-01 04:25:26"}
+{"message":"Calling Get all URLs endpoint.","level":"debug","timestamp":"2023-05-01 04:25:57"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-01 04:25:57"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-01 04:37:44"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-01 04:37:44"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-01 04:37:44"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-01 04:37:44"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-01 04:38:00"}
+{"level":"debug","message":"Calling Redirect to the url endpoint with params: { accessKey: 'favicon.ico' }","timestamp":"2023-05-01 04:38:00"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-01 04:38:00"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-01 04:45:06"}
+{"level":"debug","message":"Calling Redirect to the url endpoint with params: { accessKey: 'favicon.ico' }","timestamp":"2023-05-01 04:45:06"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-01 04:45:06"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-01 04:47:15"}
+{"level":"debug","message":"Calling Redirect to the url endpoint with params: { accessKey: 'favicon.ico' }","timestamp":"2023-05-01 04:47:15"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-01 04:47:15"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-01 04:47:26"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-01 04:47:26"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-01 04:47:26"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-01 04:47:26"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-01 04:47:31"}
+{"level":"debug","message":"Calling Redirect to the url endpoint with params: { accessKey: 'favicon.ico' }","timestamp":"2023-05-01 04:47:31"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-01 04:47:31"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-01 04:49:52"}
+{"level":"debug","message":"Calling Redirect to the url endpoint with params: { accessKey: 'favicon.ico' }","timestamp":"2023-05-01 04:49:52"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-01 04:49:52"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-01 04:50:04"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-01 04:50:04"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-01 04:50:04"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-01 04:50:04"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-01 04:50:10"}
+{"level":"debug","message":"Calling Redirect to the url endpoint with params: { accessKey: 'favicon.ico' }","timestamp":"2023-05-01 04:50:10"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-01 04:50:10"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-01 04:53:14"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-01 04:53:14"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-01 04:53:14"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-01 04:53:14"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-01 04:53:16"}
+{"level":"debug","message":"Calling Redirect to the url endpoint with params: { accessKey: 'favicon.ico' }","timestamp":"2023-05-01 04:53:17"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-01 04:53:17"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-01 04:54:08"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-01 04:54:08"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-01 04:54:08"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-01 04:54:08"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-01 04:54:14"}
+{"level":"debug","message":"Calling Redirect to the url endpoint with params: { accessKey: 'favicon.ico' }","timestamp":"2023-05-01 04:54:14"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-01 04:54:14"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-01 05:01:42"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-01 05:02:54"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-01 05:02:54"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-01 05:02:54"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-01 05:02:54"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-01 05:02:59"}
+{"level":"debug","message":"Calling Redirect to the url endpoint with params: { accessKey: 'me' }","timestamp":"2023-05-01 05:03:12"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-01 05:03:12"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-01 05:03:16"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-01 05:04:38"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-01 05:04:38"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-01 05:04:38"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-01 05:04:38"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-01 05:04:47"}
+{"level":"debug","message":"Calling Redirect to the url endpoint with params: { accessKey: 'favicon.ico' }","timestamp":"2023-05-01 05:04:47"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-01 05:04:47"}
+{"level":"debug","message":"Calling Redirect to the url endpoint with params: { accessKey: 'favicon.ico' }","timestamp":"2023-05-01 05:05:57"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-01 05:05:57"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-01 05:08:49"}
+{"level":"debug","message":"Calling Redirect to the url endpoint with params: { accessKey: 'favicon.ico' }","timestamp":"2023-05-01 05:08:49"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-01 05:08:49"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-01 05:09:12"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-01 05:09:12"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-01 05:09:12"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-01 05:09:12"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-01 05:09:21"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-01 05:09:25"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-01 05:09:51"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-01 05:11:17"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-01 05:11:17"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-01 05:11:17"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-01 05:11:17"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-01 05:11:21"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-01 05:12:38"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-01 05:12:54"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-01 05:15:53"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-01 05:15:53"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-01 05:15:53"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-01 05:15:53"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-01 05:15:59"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-01 05:17:36"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-01 05:17:45"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-01 05:17:45"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-01 05:17:45"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-01 05:17:45"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-01 05:20:43"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-01 05:20:43"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-01 05:20:43"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-01 05:20:43"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-01 05:22:10"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-01 05:22:10"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-01 05:22:10"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-01 05:22:10"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-01 05:22:50"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-01 05:22:50"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-01 05:22:50"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-01 05:22:50"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-01 05:22:52"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-01 05:23:52"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-01 05:23:52"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-01 05:23:52"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-01 05:23:52"}
+{"message":"Calling Get all URLs endpoint.","level":"debug","timestamp":"2023-05-01 05:42:25"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-01 05:42:25"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-01 05:43:33"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-01 05:43:33"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-01 05:43:33"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-01 05:43:33"}
+{"message":"Calling Get all URLs endpoint.","level":"debug","timestamp":"2023-05-01 05:43:37"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-01 05:43:37"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-01 05:44:03"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-01 05:44:03"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-01 05:44:03"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-01 05:44:03"}
+{"message":"Calling Get all URLs endpoint.","level":"debug","timestamp":"2023-05-01 05:44:06"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-01 05:44:06"}
+{"level":"debug","message":"Calling Redirect to the url endpoint with params: { accessKey: 'favicon.ico' }","timestamp":"2023-05-01 14:16:06"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-01 14:16:06"}
