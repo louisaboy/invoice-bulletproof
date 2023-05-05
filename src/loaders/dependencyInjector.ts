@@ -14,10 +14,7 @@ export default ({
     });
 
     Container.set("logger", LoggerInstance);
-    // Container.set(
-    //   "emailClient",
-    //   mailgun({ apiKey: config.emails.apiKey, domain: config.emails.domain })
-    // );
+
   } catch (e) {
     LoggerInstance.error("🔥 Error on dependency injector loader: %o", e);
     throw e;

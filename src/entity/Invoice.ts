@@ -7,7 +7,7 @@ import {
   } from "typeorm";
   
   @Entity()
-  export class User {
+  export class Invoice {
     @PrimaryGeneratedColumn()
     id: number;
   
@@ -29,7 +29,7 @@ import {
     @CreateDateColumn()
     date: Date;
 
-    @Column()
+    @Column({ default: false})
     deleted: boolean;
   }
   

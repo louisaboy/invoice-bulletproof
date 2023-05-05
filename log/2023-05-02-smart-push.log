@@ -1,0 +1,14 @@
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-02 20:14:11"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-02 20:14:11"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-02 20:14:11"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-02 20:14:11"}
+{"level":"debug","message":"Calling Redirect to the url endpoint with params: { accessKey: 'favicon.ico' }","timestamp":"2023-05-02 20:14:20"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-02 20:14:20"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-02 20:49:51"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-02 20:49:51"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-02 20:49:51"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-02 20:49:51"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-02 21:10:38"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-02 21:10:38"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-02 21:10:38"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-02 21:10:38"}

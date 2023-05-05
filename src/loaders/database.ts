@@ -10,6 +10,7 @@ const dbConnection = {
     }
 
     const connectionOptions = await getConnectionOptions(name);
+    console.log("Went to create");
     return await createConnection({ ...connectionOptions, name: "default" });
   },
   async close() {

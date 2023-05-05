@@ -1,0 +1,30 @@
+version: "3.8"
+
+services:
+  mysql_server:
+    # build: ./MySQL-Docker
+    image: mysql:8.0.33
+    ports: 
+      - 3309:3306
+    environment:
+      - MYSQL_DATABASE=invoices
+      - MYSQL_USER=user
+      - MYSQL_PASSWORD=secret
+      - MYSQL_ROOT_PASSWORD=secret
+
+  app:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 3000:3000
+    volumes:
+      - .:/app
+      - '/app/node_modules'
+    depends_on:
+      - mysql_server  
+    
+    command: ["npm", "run", "start"]
+    restart: on-failure
+
+  

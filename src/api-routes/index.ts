@@ -1,10 +1,10 @@
-import urlShortener from "./routes/urlShortener";
+import invoice from "./routes/invoice";
 import { Router } from "express";
 
 export default () => {
   const app = Router();
 
-  urlShortener(app);
+  invoice(app);
 
   return app;
 };

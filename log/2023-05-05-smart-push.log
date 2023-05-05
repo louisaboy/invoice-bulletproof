@@ -1,0 +1,241 @@
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 00:08:13"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 00:17:57"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 00:18:09"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 00:18:09"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 00:18:09"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 00:18:09"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-05 00:18:13"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 00:18:51"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 00:18:51"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 00:18:51"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 00:18:51"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-05 00:19:21"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 00:20:05"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 00:20:05"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 00:20:05"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 00:20:05"}
+{"level":"debug","message":"Calling Add Invoice ID 1","timestamp":"2023-05-05 00:21:29"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-05 00:21:29"}
+{"level":"debug","message":"Calling Add Invoice ID 1","timestamp":"2023-05-05 00:22:46"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-05 00:22:46"}
+{"level":"debug","message":"Calling Add Invoice ID 1","timestamp":"2023-05-05 00:23:25"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-05 00:23:25"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 00:23:32"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 00:23:32"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 00:23:32"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 00:23:32"}
+{"level":"debug","message":"Calling Add Invoice ID 1","timestamp":"2023-05-05 00:23:40"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-05 00:23:40"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 00:28:35"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 00:28:35"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 00:28:35"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 00:28:35"}
+{"level":"debug","message":"Calling Add Invoice ID 1","timestamp":"2023-05-05 00:28:36"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-05 00:28:36"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 00:48:36"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 00:48:36"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 00:48:36"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 00:48:36"}
+{"level":"debug","message":"Calling Add Invoice ID 1","timestamp":"2023-05-05 00:48:37"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-05 00:48:37"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 00:50:02"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 00:50:02"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 00:50:02"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 00:50:02"}
+{"level":"debug","message":"Calling Add Invoice ID 1","timestamp":"2023-05-05 00:50:06"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-05 00:50:06"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 00:56:24"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 00:56:24"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 00:56:24"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 00:56:24"}
+{"level":"debug","message":"Calling Add Invoice ID 1","timestamp":"2023-05-05 00:56:27"}
+{"message":"Calling Get all invoices","level":"debug","timestamp":"2023-05-05 00:57:36"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-05 00:57:36"}
+{"message":"Calling Get all invoices","level":"debug","timestamp":"2023-05-05 00:57:54"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-05 00:57:54"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 00:59:10"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 00:59:10"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 00:59:10"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 00:59:10"}
+{"message":"Calling Get all invoices","level":"debug","timestamp":"2023-05-05 00:59:14"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-05 00:59:14"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 01:00:06"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 01:00:06"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 01:00:06"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 01:00:06"}
+{"message":"Calling Get all invoices","level":"debug","timestamp":"2023-05-05 01:00:08"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-05 01:00:08"}
+{"message":"Calling Get all invoices","level":"debug","timestamp":"2023-05-05 01:03:07"}
+{"level":"debug","message":"Calling Add Invoice ID 1","timestamp":"2023-05-05 01:03:38"}
+{"message":"Calling Get all invoices","level":"debug","timestamp":"2023-05-05 01:03:44"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 01:06:18"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 01:06:18"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 01:06:18"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 01:06:18"}
+{"level":"debug","message":"Calling Add Invoice ID 1","timestamp":"2023-05-05 01:06:27"}
+{"message":"Calling Get all invoices","level":"debug","timestamp":"2023-05-05 01:06:34"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 01:22:54"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 01:22:54"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 01:22:54"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 01:22:54"}
+{"level":"debug","message":"Calling Add Invoice ID 1","timestamp":"2023-05-05 01:23:08"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 01:25:36"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 01:25:36"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 01:25:36"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 01:25:36"}
+{"level":"debug","message":"Calling Add Invoice ID 1","timestamp":"2023-05-05 01:25:47"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 01:29:43"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 01:29:43"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 01:29:43"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 01:29:43"}
+{"level":"debug","message":"Calling Add Invoice ID 1","timestamp":"2023-05-05 01:29:44"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 01:32:09"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 01:32:09"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 01:32:09"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 01:32:09"}
+{"level":"debug","message":"Calling Add Invoice ID 1","timestamp":"2023-05-05 01:32:11"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 03:24:39"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 03:24:39"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 03:24:39"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 03:24:39"}
+{"level":"debug","message":"Calling Add Invoice ID 1","timestamp":"2023-05-05 03:24:43"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-05 03:24:50"}
+{"message":"Calling Get all invoices","level":"debug","timestamp":"2023-05-05 03:24:54"}
+{"message":"Calling Get all invoices","level":"debug","timestamp":"2023-05-05 03:25:06"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 03:30:41"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 03:30:41"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 03:30:41"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 03:30:41"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 04:15:48"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 04:15:48"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 04:15:48"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 04:15:48"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 19:24:48"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 19:24:48"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 19:24:48"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 19:24:48"}
+{"message":"Calling Get all invoices","level":"debug","timestamp":"2023-05-05 19:25:17"}
+{"level":"debug","message":"Calling Add Invoice ID 1","timestamp":"2023-05-05 19:25:41"}
+{"message":"[400/Custom] DUPLICATE KEY - This Invoice ID is aready existing","level":"error","timestamp":"2023-05-05 19:25:41"}
+{"message":"Calling Get all invoices","level":"debug","timestamp":"2023-05-05 19:25:48"}
+{"level":"debug","message":"Calling Add Invoice ID 2","timestamp":"2023-05-05 19:26:01"}
+{"message":"[400/Custom] DUPLICATE KEY - This Invoice ID is aready existing","level":"error","timestamp":"2023-05-05 19:26:01"}
+{"level":"debug","message":"Calling Add Invoice ID 2","timestamp":"2023-05-05 19:26:22"}
+{"message":"[400/Custom] DUPLICATE KEY - This Invoice ID is aready existing","level":"error","timestamp":"2023-05-05 19:26:22"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 19:28:03"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 19:28:03"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 19:28:03"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 19:28:03"}
+{"message":"[404/Custom] NOT_FOUND - The page does not exist.","level":"error","timestamp":"2023-05-05 19:28:32"}
+{"level":"debug","message":"Calling Add Invoice ID 1","timestamp":"2023-05-05 19:28:38"}
+{"message":"[400/Custom] DUPLICATE KEY - This Invoice ID is aready existing","level":"error","timestamp":"2023-05-05 19:28:38"}
+{"level":"debug","message":"Calling Add Invoice ID 2","timestamp":"2023-05-05 19:28:46"}
+{"message":"[400/Custom] DUPLICATE KEY - This Invoice ID is aready existing","level":"error","timestamp":"2023-05-05 19:28:46"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 19:29:53"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 19:29:53"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 19:29:53"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 19:29:53"}
+{"level":"debug","message":"Calling Add Invoice ID 2","timestamp":"2023-05-05 19:29:59"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-05 19:29:59"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 19:30:15"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 19:30:15"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 19:30:15"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 19:30:15"}
+{"level":"debug","message":"Calling Add Invoice ID 2","timestamp":"2023-05-05 19:30:16"}
+{"message":"[400/Custom] DUPLICATE KEY - This Invoice ID is aready existing","level":"error","timestamp":"2023-05-05 19:30:16"}
+{"message":"Calling Get all invoices","level":"debug","timestamp":"2023-05-05 19:30:39"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 19:32:09"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 19:32:09"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 19:32:09"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 19:32:09"}
+{"message":"Calling Get all invoices","level":"debug","timestamp":"2023-05-05 19:32:10"}
+{"level":"debug","message":"Calling Add Invoice ID 2","timestamp":"2023-05-05 19:32:20"}
+{"message":"[500/GENERIC] GENERIC - Something went wrong. Please try again or contact support.","level":"error","timestamp":"2023-05-05 19:32:20"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 19:32:49"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 19:32:49"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 19:32:50"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 19:32:50"}
+{"level":"debug","message":"Calling Add Invoice ID 2","timestamp":"2023-05-05 19:32:53"}
+{"message":"Calling Get all invoices","level":"debug","timestamp":"2023-05-05 19:32:58"}
+{"level":"debug","message":"Calling Add Invoice ID 2","timestamp":"2023-05-05 19:33:14"}
+{"message":"Calling Get all invoices","level":"debug","timestamp":"2023-05-05 19:33:21"}
+{"level":"debug","message":"Calling Add Invoice ID 2","timestamp":"2023-05-05 19:34:59"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 19:37:49"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 19:37:49"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 19:37:49"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 19:37:49"}
+{"level":"debug","message":"Calling Add Invoice ID 2","timestamp":"2023-05-05 19:37:53"}
+{"message":"[400/Custom] DUPLICATE KEY - This Invoice ID is aready existing","level":"error","timestamp":"2023-05-05 19:37:53"}
+{"level":"debug","message":"Calling Add Invoice ID 3","timestamp":"2023-05-05 19:37:59"}
+{"message":"Calling Get all invoices","level":"debug","timestamp":"2023-05-05 19:38:07"}
+{"level":"debug","message":"Calling Delete Invoice ID { id: 4 }","timestamp":"2023-05-05 19:38:43"}
+{"message":"[404/Custom] NOT FOUND - This is an invalid Invoice ID","level":"error","timestamp":"2023-05-05 19:38:43"}
+{"level":"debug","message":"Calling Delete Invoice ID { id: 3 }","timestamp":"2023-05-05 19:38:48"}
+{"message":"[404/Custom] NOT FOUND - This is an invalid Invoice ID","level":"error","timestamp":"2023-05-05 19:38:48"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 19:40:21"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 19:40:21"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 19:40:21"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 19:40:21"}
+{"level":"debug","message":"Calling Add Invoice ID 3","timestamp":"2023-05-05 19:40:26"}
+{"message":"[400/Custom] DUPLICATE KEY - This Invoice ID is aready existing","level":"error","timestamp":"2023-05-05 19:40:26"}
+{"level":"debug","message":"Calling Add Invoice ID 4","timestamp":"2023-05-05 19:40:31"}
+{"message":"[400/Custom] DUPLICATE KEY - This Invoice ID is aready existing","level":"error","timestamp":"2023-05-05 19:40:31"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 19:41:39"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 19:41:39"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 19:41:39"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 19:41:39"}
+{"level":"debug","message":"Calling Add Invoice ID 3","timestamp":"2023-05-05 19:41:44"}
+{"message":"[400/Custom] DUPLICATE KEY - This Invoice ID is aready existing","level":"error","timestamp":"2023-05-05 19:41:44"}
+{"level":"debug","message":"Calling Add Invoice ID 4","timestamp":"2023-05-05 19:41:48"}
+{"level":"debug","message":"Calling Add Invoice ID 4","timestamp":"2023-05-05 19:41:55"}
+{"message":"[400/Custom] DUPLICATE KEY - This Invoice ID is aready existing","level":"error","timestamp":"2023-05-05 19:41:55"}
+{"level":"debug","message":"Calling Add Invoice ID 5","timestamp":"2023-05-05 19:42:07"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 19:42:36"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 19:42:36"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 19:42:36"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 19:42:36"}
+{"level":"debug","message":"Calling Delete Invoice ID { id: 6 }","timestamp":"2023-05-05 19:42:46"}
+{"message":"[404/Custom] NOT FOUND - This is an invalid Invoice ID","level":"error","timestamp":"2023-05-05 19:42:46"}
+{"level":"debug","message":"Calling Delete Invoice ID { id: 5 }","timestamp":"2023-05-05 19:42:49"}
+{"message":"[404/Custom] NOT FOUND - This is an invalid Invoice ID","level":"error","timestamp":"2023-05-05 19:42:49"}
+{"level":"debug","message":"Calling Add Invoice ID 2","timestamp":"2023-05-05 19:44:46"}
+{"message":"[400/Custom] DUPLICATE KEY - This Invoice ID is aready existing","level":"error","timestamp":"2023-05-05 19:44:47"}
+{"level":"debug","message":"Calling Add Invoice ID 5","timestamp":"2023-05-05 19:44:51"}
+{"message":"[400/Custom] DUPLICATE KEY - This Invoice ID is aready existing","level":"error","timestamp":"2023-05-05 19:44:51"}
+{"level":"debug","message":"Calling Add Invoice ID 6","timestamp":"2023-05-05 19:44:59"}
+{"level":"debug","message":"Calling Add Invoice ID 5","timestamp":"2023-05-05 19:45:04"}
+{"message":"[400/Custom] DUPLICATE KEY - This Invoice ID is aready existing","level":"error","timestamp":"2023-05-05 19:45:04"}
+{"level":"debug","message":"Calling Add Invoice ID 7","timestamp":"2023-05-05 19:45:07"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 19:45:18"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 19:45:18"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 19:45:18"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 19:45:18"}
+{"level":"debug","message":"Calling Delete Invoice ID { id: 10 }","timestamp":"2023-05-05 19:45:27"}
+{"message":"[404/Custom] NOT FOUND - This is an invalid Invoice ID","level":"error","timestamp":"2023-05-05 19:45:27"}
+{"level":"debug","message":"Calling Delete Invoice ID { id: 8 }","timestamp":"2023-05-05 19:45:32"}
+{"message":"[404/Custom] NOT FOUND - This is an invalid Invoice ID","level":"error","timestamp":"2023-05-05 19:45:32"}
+{"level":"debug","message":"Calling Delete Invoice ID { id: 7 }","timestamp":"2023-05-05 19:45:35"}
+{"message":"[404/Custom] NOT FOUND - This is an invalid Invoice ID","level":"error","timestamp":"2023-05-05 19:45:35"}
+{"level":"debug","message":"Calling Delete Invoice ID { id: 6 }","timestamp":"2023-05-05 19:45:39"}
+{"message":"[404/Custom] NOT FOUND - This is an invalid Invoice ID","level":"error","timestamp":"2023-05-05 19:45:39"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 19:47:38"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 19:47:38"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 19:47:38"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 19:47:38"}
+{"level":"debug","message":"Calling Delete Invoice ID { id: 6 }","timestamp":"2023-05-05 19:47:42"}
+{"message":"[404/Custom] NOT FOUND - This is an invalid Invoice ID","level":"error","timestamp":"2023-05-05 19:47:42"}
+{"message":"Calling Get all invoices","level":"debug","timestamp":"2023-05-05 19:47:52"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 19:49:03"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 19:49:03"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 19:49:03"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 19:49:03"}
+{"level":"debug","message":"Calling Delete Invoice ID { id: 6 }","timestamp":"2023-05-05 19:49:08"}
+{"message":"Calling Get all invoices","level":"debug","timestamp":"2023-05-05 19:49:14"}
+{"message":"✅ DB loaded and connected!","level":"info","timestamp":"2023-05-05 19:50:48"}
+{"message":"✅ Dependency Injector loaded.","level":"info","timestamp":"2023-05-05 19:50:48"}
+{"message":"✅ Express loaded.","level":"info","timestamp":"2023-05-05 19:50:48"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2023-05-05 19:50:48"}
+{"message":"Calling Get all invoices","level":"debug","timestamp":"2023-05-05 19:50:52"}
+{"level":"debug","message":"Calling Delete Invoice ID { id: 10 }","timestamp":"2023-05-05 19:52:07"}
+{"message":"[404/Custom] NOT FOUND - This is an invalid Invoice ID","level":"error","timestamp":"2023-05-05 19:52:07"}
+{"level":"debug","message":"Calling Delete Invoice ID { id: 7 }","timestamp":"2023-05-05 19:52:10"}
